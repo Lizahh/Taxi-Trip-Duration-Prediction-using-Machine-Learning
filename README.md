@@ -10,7 +10,7 @@ Predicting the duration of a driver's cab occupancy is crucial for optimising th
 
 ### Clone the repository:
 
-          git clone https://github.com/Lizahh/GUI-Based-Library-Management-System-desinged-with-PyQt5
+          git clone https://github.com/Lizahh/Taxi-Trip-Duration-Prediction-using-Machine-Learning
       
 # Description
 
